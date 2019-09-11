@@ -58,10 +58,22 @@ int main() {
     //std::cout << "My lucky number is" << 7 << std::endl;
 
     //Exercise
-    std::cout << "My name is K1W1, I'll be your AI assistant today~" << std::endl;
-    std::cout << "I have no such thing as age, I'm not a living organism. Although, if you're that curious, I was constructed " << 4 << " years ago." << std::endl;
-    std::cout << "I am 420 centimerets high" << std::endl;
-    std::cout << "HAHAAA" << std::endl;
-    std::cout << "Just kidding, silly organism. I am merely " << 40.4 << " centimeters." << std::endl;
+    //std::cout << "My name is K1W1, I'll be your AI assistant today~" << std::endl;
+    //std::cout << "I have no such thing as age, I'm not a living organism. Although, if you're that curious, I was constructed " << 4 << " years ago." << std::endl;
+    //std::cout << "I am 420 centimerets high" << std::endl;
+    //std::cout << "HAHAAA" << std::endl;
+    //std::cout << "Just kidding, silly organism. I am merely " << 40.4 << " centimeters." << std::endl;
+
+    //std::cout << 13+22 << std::endl;
+    //std::cout << 22-13 << std::endl;
+    //std::cout << 22*13 << std::endl;
+    //std::cout << 22/13 << std::endl;
+    //std::cout << 22./13 << std::endl;
+    //std::cout << 22%13 << std::endl;
+
+    //std::cout << "If attendee codes every day, they code " << 6*7*17 << " hours total." << " That's " << 6*7 << " hours a week."
+    //<< " If they only code on workdays, it's " << 6*5*17 << " total. " << "If they code 52 hours weekly, the percentage of the coding hours is " << (52.*17)/(24*7*17)*100 << "%." << std::endl;
+
+
     return 0;
 }
