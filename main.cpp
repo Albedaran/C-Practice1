@@ -74,6 +74,27 @@ int main() {
     //std::cout << "If attendee codes every day, they code " << 6*7*17 << " hours total." << " That's " << 6*7 << " hours a week."
     //<< " If they only code on workdays, it's " << 6*5*17 << " total. " << "If they code 52 hours weekly, the percentage of the coding hours is " << (52.*17)/(24*7*17)*100 << "%." << std::endl;
 
+    //Practice7
+    std::string welcome = "Hello World" ;
+    std::cout << welcome << std::endl;
+
+    bool isAwesome = true;
+            std::cout << isAwesome << std::endl;
+
+    int youforgotthezeroattheend = 420;
+    std::cout << youforgotthezeroattheend << std::endl;
+
+    double pi = 3.141592;
+    std::cout << pi << std::endl;
+
+    short s = 567;
+    long l = 3000000000;
+    float f = 1.3f;
+
+    int number;
+    number = 12;
+    number = 23;
+
 
     return 0;
 }
