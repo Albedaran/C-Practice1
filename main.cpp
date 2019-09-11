@@ -211,6 +211,19 @@ int main() {
     //int currentSeconds = 42;
     //std::cout << (24*60*60) - (currentHours*60*60+currentMinutes*60+currentSeconds) << " seconds till tomorrow." << std::endl;
 
+    //Practice9
+
+    //int numberOfWindows;
+    //std::cout << "Please enter how many window(s) you see." << std::endl;
+    //std::cin >> numberOfWindows;
+
+    //std::string colorOfCurtain;
+    //std::cout << "Please enter the color of the curtain(s).";
+    //std::cin >> colorOfCurtain;
+
+    //std::cout << "All the " << numberOfWindows << " windows have " << colorOfCurtain << " colored curtains." << std::endl;
+
+
 
 
 
