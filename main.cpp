@@ -15,9 +15,20 @@ int main() {
     //std::cout << 2147483648 << std::endl;
 
     //Practice3
-    std::cout << 2.71 << std::endl;
-    std::cout << -2.5362 << std::endl;
-    std::cout << .5 << std::endl;
-    std::cout << 5. << std::endl;
+    //std::cout << 2.71 << std::endl;
+    //std::cout << -2.5362 << std::endl;
+    //std::cout << .5 << std::endl;
+    //std::cout << 5. << std::endl;
+
+    //Practice4
+    std::cout << 1+1 << std::endl;
+    std::cout << 5-2 << std::endl;
+    std::cout << 3*4 << std::endl;
+    std::cout << 6/2 << std::endl;
+    std::cout << 5/2 << std::endl;
+    std::cout << 5./2 << std::endl;
+    std::cout << 5/2. << std::endl;
+    std::cout << 5./2. << std::endl;
+    std::cout << 5%2 << std::endl;
     return 0;
 }
