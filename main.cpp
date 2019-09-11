@@ -223,6 +223,36 @@ int main() {
 
     //std::cout << "All the " << numberOfWindows << " windows have " << colorOfCurtain << " colored curtains." << std::endl;
 
+    //Exercise III
+    //std::string userName;
+    //std::cout << "Please, enter your name." << std::endl;
+    //std::cin >> userName;
+    //std::cout << "Welcome, " << userName << "!" << std::endl;
+
+    //int miles;
+    //std::cout << "Miles:" << std::endl;
+    //std::cin >> miles;
+    //double kilometers = miles*1.609344;
+    //std::cout << "Miles: " << miles << std::endl;
+    //std::cout << "Kilometers: " << kilometers << std::endl;
+
+    // can be done without the leg integers, but this way it's cleaner
+    //int piglegs = 4;
+    //int chicklegs = 2;
+    //int pignumber = 6;
+    //int chicnumber = 10;
+    //std::cout << piglegs*pignumber+chicklegs*chicnumber << std::endl;
+
+    //std::cout << "Please insert 5 numbers." << std::endl;
+    //int first;
+    //int second;
+    //int third;
+    //int fourth;
+    //int fifth;
+    //std::cin >> first >> second >> third >> fourth >> fifth;
+    //int sum = first+second+third+fourth+fifth;
+    //std::cout << "Sum: " << sum << ", Average: " << sum/2. << std::endl;
+
 
 
 
