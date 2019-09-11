@@ -32,20 +32,28 @@ int main() {
     //std::cout << 5%2 << std::endl;
 
     //Practice5
-    std::cout << true << std::endl;
-    std::cout << false << std::endl;
+    //std::cout << true << std::endl;
+    //std::cout << false << std::endl;
 
-    std::cout << !false << std::endl;
-    std::cout << !true << std::endl;
+    //std::cout << !false << std::endl;
+    //std::cout << !true << std::endl;
 
-    std::cout << (true&&true) << std::endl;
-    std::cout << (true&&false) << std::endl;
-    std::cout << (false&&true) << std::endl;
-    std::cout << (false&&false) << std::endl;
+    //std::cout << (true&&true) << std::endl;
+    //std::cout << (true&&false) << std::endl;
+    //std::cout << (false&&true) << std::endl;
+    //std::cout << (false&&false) << std::endl;
 
-    std::cout << (true||true) << std::endl;
-    std::cout << (true||false) << std::endl;
-    std::cout << (false||true) << std::endl;
-    std::cout << (false||false) << std::endl;
+    //std::cout << (true||true) << std::endl;
+    //std::cout << (true||false) << std::endl;
+    //std::cout << (false||true) << std::endl;
+    //std::cout << (false||false) << std::endl;
+
+    //Practice6
+    std::cout << "aeroplane" << std::endl;
+    std::cout << "don't" << std::endl;
+    std::cout << "\"Long quote goes here..\" - Aaron" <<std::endl;
+
+    std::cout << "tooth" << "brush" << std::endl;
+    std::cout << "tooth" << " " << "brush" << std::endl;
     return 0;
 }
