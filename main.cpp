@@ -5,11 +5,19 @@ int main() {
     //std::cout << "Screaming Goat Noises" << std::endl;
     //std::cout << 42 << std::endl;
     //std::cout << 3.1415 << std::endl;
-    std::cout << 42 << std::endl;
-    std::cout << 0 << std::endl;
-    std::cout << -3 << std::endl;
-    std::cout << 2147483647 << std::endl;
-    std::cout << -2147483648 << std::endl;
-    std::cout << 2147483648 << std::endl;
+
+    //Practice2
+    //std::cout << 42 << std::endl;
+    //std::cout << 0 << std::endl;
+    //std::cout << -3 << std::endl;
+    //std::cout << 2147483647 << std::endl;
+    //std::cout << -2147483648 << std::endl;
+    //std::cout << 2147483648 << std::endl;
+
+    //Practice3
+    std::cout << 2.71 << std::endl;
+    std::cout << -2.5362 << std::endl;
+    std::cout << .5 << std::endl;
+    std::cout << 5. << std::endl;
     return 0;
 }
