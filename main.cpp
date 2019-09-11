@@ -284,6 +284,41 @@ int main() {
         //} else {
         //std::cout << "Dronccc time!" << std::endl;
         //}
+    //int number;
+    //std::cout << "Enter a number." << std::endl;
+    //std::cin >> number;
+    //if (number%2<=0) {
+        //std::cout << "Your number is even." << std::endl;
+        //} else {
+        //std::cout << "Your number is odd." << std::endl;
+        //}
+    //int number;
+    //std::cout << "Please enter a number." << std::endl;
+    //std::cin >> number;
+    //if (number<=0) {
+        //std::cout << "Sorry, not enough." << std::endl;
+        //} else if (number==1) {
+        //std::cout << "Your number is 1. Just 1." << std::endl;
+        //} else if (number==2) {
+        //std::cout << "Your number is 2. That's a pair!" << std::endl;
+        //} else {
+        //std::cout << "Wow, that's a lot of damage!" << std::endl;
+        //}
+    int girnu;
+    int boinu;
+    std::cout << "Enter the number of girls coming to the party." << std::endl;
+    std::cout << "Enter the number of boys coming to the party." << std::endl;
+    std::cin >> girnu;
+    std::cin >> boinu;
+    if (girnu==boinu||girnu+boinu>=20) {
+        std::cout << "The party is excellent" << std::endl;
+    } else if (girnu-boinu<=0&&girnu+boinu>=20) {
+        std::cout << "Quite cool party!" << std::endl;
+    } else if (girnu+boinu<20) {
+        std::cout << "Average party." << std::endl;
+    } else if (girnu==0){
+        std::cout << "Sausage party" << std::endl;
+    }
 
 
 
