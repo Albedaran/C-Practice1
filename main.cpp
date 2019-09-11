@@ -96,41 +96,127 @@ int main() {
     //number = 23;
 
     //Practice8
-    int a = 12;
-    a += 4;
-    std::cout << a << std::endl;
+    //int a = 12;
+    //a += 4;
+    //std::cout << a << std::endl;
 
-    int b = 12;
-    b -= 4;
-    std::cout << b << std::endl;
+    //int b = 12;
+    //b -= 4;
+    //std::cout << b << std::endl;
 
-    int c = 12;
-    std::cout << c++ << std::endl;
-    std::cout << c << std::endl;
+    //int c = 12;
+    //std::cout << c++ << std::endl;
+    //std::cout << c << std::endl;
 
-    int d = 12;
-    std::cout << ++d << std::endl;
-    std::cout << d << std::endl;
+    //int d = 12;
+    //std::cout << ++d << std::endl;
+    //std::cout << d << std::endl;
 
-    int e = 12;
-    std::cout << e-- << std::endl;
-    std::cout << e << std::endl;
+    //int e = 12;
+    //std::cout << e-- << std::endl;
+    //std::cout << e << std::endl;
 
-    int f = 12;
-    std::cout << --f << std::endl;
-    std::cout << f << std::endl;
+    // int f = 12;
+    //std::cout << --f << std::endl;
+    //std::cout << f << std::endl;
 
-    int g = 12;
-    g *= 3;
-    std::cout << g << std::endl;
+    // int g = 12;
+    //g *= 3;
+    //std::cout << g << std::endl;
 
-    int h = 12;
-    h /= 3;
-    std::cout << h << std::endl;
+    //int h = 12;
+    //h /= 3;
+    //std::cout << h << std::endl;
 
-    int i = 12;
-    i %= 7;
-    std::cout << i << std::endl;
+    //int i = 12;
+    //i %= 7;
+    //std::cout << i << std::endl;
+
+    //Exercise II
+    //int favnum = 412;
+    //std::cout << favnum << std::endl;
+
+    //int a = 123;
+    //int b = 526;
+    //a = b;
+    //b = 123;
+    //std::cout << a << std::endl;
+    //std::cout << b << std::endl;
+
+    //double massInKg = 81.2;
+    //double heightInM = 1.78;
+    //std::cout << massInKg/(heightInM*heightInM) << std::endl;
+
+    //std::string name = "Maverick";
+    //int age = 420;
+    //double heightInM = 2.14;
+    //bool ismarried = false;
+    //std::cout << "My name is " << name << ". I am " << age << " years old. I'm not married yet, in boolean that means a big fat " << ismarried << "." << std::endl;
+
+    //int a = 3;
+    //a += 10;
+    //std::cout << a << std::endl;
+
+    //int b = 100;
+    //b -= 7;
+    //std::cout << b << std::endl;
+
+    //int c = 44;
+    //c *= 2;
+    //std::cout << c << std::endl;
+
+    //int d = 125;
+    //d/= (5*d);
+    //std::cout << d << std::endl;
+
+    //int e = 8;
+    //e *= (e*e);
+    //std::cout << e << std::endl;
+
+    //int f1 = 123;
+    //int f2 = 345;
+    //bool statementf = (f1>f2);
+    //std::cout << statementf << std::endl;
+
+    //int g1 = 350;
+    //int g2 = 200;
+    //bool statementg = (g2*2>g1);
+    //std::cout << statementg << std::endl;
+
+    //int h = 135798745;
+    //bool has11div = (135798745%11<=0);
+    //std::cout << has11div << std::endl;
+
+    //int i1 = 10;
+    //int i2 = 3;
+    //bool ishigher = (i1>i2*i2);
+    //bool issmaller = (i1<i2*i2*i2);
+    //std::cout << ishigher << std::endl;
+    //std::cout << issmaller << std::endl;
+
+    //int j = 1521;
+    //bool dividetru = (j%3<=0||j%5<=0);
+    //std::cout << dividetru << std::endl;
+
+    //int acube = 3;
+    //int bcube = 4;
+    //int ccube = 5;
+    //int surface = (acube*bcube)*6;
+    //int volume = (acube*ccube*bcube);
+    //std::cout << surface << std::endl;
+    //std::cout << volume << std::endl;
+
+    //int currentHours = 14;
+    //int currentMinutes = 34;
+    //int currentSeconds = 42;
+    //std::cout << (24*60*60) - (currentHours*60*60+currentMinutes*60+currentSeconds) << " seconds till tomorrow." << std::endl;
+
+
+
+
+
+
+
 
 
 
