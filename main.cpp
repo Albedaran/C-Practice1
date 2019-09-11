@@ -75,25 +75,63 @@ int main() {
     //<< " If they only code on workdays, it's " << 6*5*17 << " total. " << "If they code 52 hours weekly, the percentage of the coding hours is " << (52.*17)/(24*7*17)*100 << "%." << std::endl;
 
     //Practice7
-    std::string welcome = "Hello World" ;
-    std::cout << welcome << std::endl;
+    //std::string welcome = "Hello World" ;
+    //std::cout << welcome << std::endl;
 
-    bool isAwesome = true;
-            std::cout << isAwesome << std::endl;
+    //bool isAwesome = true;
+    //std::cout << isAwesome << std::endl;
 
-    int youforgotthezeroattheend = 420;
-    std::cout << youforgotthezeroattheend << std::endl;
+    //int youforgotthezeroattheend = 420;
+    //std::cout << youforgotthezeroattheend << std::endl;
 
-    double pi = 3.141592;
-    std::cout << pi << std::endl;
+    //double pi = 3.141592;
+    //std::cout << pi << std::endl;
 
-    short s = 567;
-    long l = 3000000000;
-    float f = 1.3f;
+    //short s = 567;
+    //long l = 3000000000;
+    //float f = 1.3f;
 
-    int number;
-    number = 12;
-    number = 23;
+    //int number;
+    //number = 12;
+    //number = 23;
+
+    //Practice8
+    int a = 12;
+    a += 4;
+    std::cout << a << std::endl;
+
+    int b = 12;
+    b -= 4;
+    std::cout << b << std::endl;
+
+    int c = 12;
+    std::cout << c++ << std::endl;
+    std::cout << c << std::endl;
+
+    int d = 12;
+    std::cout << ++d << std::endl;
+    std::cout << d << std::endl;
+
+    int e = 12;
+    std::cout << e-- << std::endl;
+    std::cout << e << std::endl;
+
+    int f = 12;
+    std::cout << --f << std::endl;
+    std::cout << f << std::endl;
+
+    int g = 12;
+    g *= 3;
+    std::cout << g << std::endl;
+
+    int h = 12;
+    h /= 3;
+    std::cout << h << std::endl;
+
+    int i = 12;
+    i %= 7;
+    std::cout << i << std::endl;
+
 
 
     return 0;
