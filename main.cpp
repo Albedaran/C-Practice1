@@ -304,21 +304,63 @@ int main() {
         //} else {
         //std::cout << "Wow, that's a lot of damage!" << std::endl;
         //}
-    int girnu;
-    int boinu;
-    std::cout << "Enter the number of girls coming to the party." << std::endl;
-    std::cout << "Enter the number of boys coming to the party." << std::endl;
-    std::cin >> girnu;
-    std::cin >> boinu;
-    if (girnu==boinu||girnu+boinu>=20) {
-        std::cout << "The party is excellent" << std::endl;
-    } else if (girnu-boinu<=0&&girnu+boinu>=20) {
-        std::cout << "Quite cool party!" << std::endl;
-    } else if (girnu+boinu<20) {
-        std::cout << "Average party." << std::endl;
-    } else if (girnu==0){
-        std::cout << "Sausage party" << std::endl;
-    }
+    //int girnu;
+    //int boinu;
+    //std::cout << "Enter the number of girls coming to the party." << std::endl;
+    //std::cout << "Enter the number of boys coming to the party." << std::endl;
+    //std::cin >> girnu;
+    //std::cin >> boinu;
+    //if (girnu==boinu||girnu+boinu>=20) {
+    //std::cout << "The party is excellent" << std::endl;
+    //} else if (girnu-boinu<=0&&girnu+boinu>=20) {
+    //std::cout << "Quite cool party!" << std::endl;
+    //} else if (girnu+boinu<20) {
+    //std::cout << "Average party." << std::endl;
+    //} else if (girnu==0){
+    //std::cout << "Sausage party" << std::endl;
+    //}
+
+    //double a = 24;
+    //int out = 0;
+    //if (24%2==0) {
+    //(out+=1);
+    //}
+    //std::cout << out << std::endl;
+
+    //int b = 13;
+    //std::string out2 = "";
+    //if (10<b<20) {
+        // (out2 = "Sweet!");
+        //} else if (b<10) {
+        //(out2 = "Less!");
+        //} else {
+        // (out2 = "More!");
+        //}
+    //std::cout << out2 << std::endl;
+
+    //int c = 123;
+    //int credits = 100;
+    //bool isBonus = false;
+    //if (50<=credits&&isBonus==false) {
+        //(c-=2);
+        //} else if (credits<50 && isBonus==false) {
+        //(c-=1);
+        //} else if (isBonus = true) {
+        //(c==c);
+        //}
+    //std::cout << c << std::endl;
+
+    //int d = 8;
+    //int time = 120;
+    //std::string out3 = "";
+    //if (d%4==0&&time<=200) {
+        //out3 ="check";
+        //} else if (time>=200) {
+        // out3 ="Time-out";
+        //} else {
+        //out3 = "Run Forest Run!";
+        //}
+    //std::cout << out3 << std::endl;
 
 
 
