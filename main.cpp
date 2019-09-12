@@ -362,12 +362,102 @@ int main() {
         //}
     //std::cout << out3 << std::endl;
 
+    //Practice 11
+    //int a = 0;
+    //while (a<10) {
+    //std::cout << a << std::endl;
+    //a+= 1;
+    //}
+    //for (int i = 0; i < 100; i++) {
+    //std::cout << i << std::endl;
+    //}
 
+    //Exercise IV
 
+    //std::string nosteal = "I won't cheat on exams!";
+    //int a = 0;
+    //while (a<100) {
+        //std::cout << nosteal << std::endl;
+        //a+=1;
+        //}
 
+    //int ev = 0;
+    //while (ev<500) {
+            //std::cout << ev << std::endl;
+            //ev+=2;
+            //}
+    //int number;
+    //int multip = 1;
+    //std::cout << "Please put in the number you want Patat to multiply." << std::endl;
+    //std::cin >> number;
+    //while (multip<=10) {
+        //std::cout << multip*number << std::endl;
+        // multip+=1;
+        //}
 
+    //int number1;
+    //int number2;
+    //std::cout << "Please give Lady Patat 2 numbers." << std::endl;
+    //std::cin >> number1 >> number2;
+    //if (number2<number1) {
+        //std::cout << "The second number should be bigger" << std::endl;
+        //} else if (number2>number1) {
+        //while (number2>=number1) {
+            //std::cout << number1 << std::endl;
+            //number1+=1;
+            //}
+        //}
 
-
+    //int goodboi = 0;
+    //while (goodboi<15) {
+          //std::cout << goodboi << std::endl;
+          //goodboi+=1;
+          //if (goodboi%3==0) {
+              //std::cout << "Fizz" << std::endl;
+              //if (goodboi%5==0) {
+                  //std::cout << "Fizzbuzz" << std::endl;
+                  //}
+              //} else if (goodboi%5==0) {
+              //std::cout << "Buzz" << std::endl;
+              //}
+          //}
+    //int tri, ang, num;
+    //std::cout << "Number to triangle converter. Insert:" << std::endl;
+    //std::cin >> num;
+    //while (tri<=num) {
+         //tri++;
+         //ang=1;
+         //while(ang <= tri) {
+             //std::cout << "*";
+             //ang++;
+             //}
+         //std::cout<<std::endl;
+         //}
+         /*int rows, space;
+         std::cout << "Number to pyramid converter. Insert:" << std::endl;
+         std::cin >> rows;
+            for (int i = 0; i < rows ; ++i) {
+        //stars += 2;
+            for (space = 0; space < rows-i ; ++space) {
+                std::cout << "  ";
+            }
+            for (int j = 0; j < i*2 + 1 ; ++j) {
+            std::cout << "* ";
+            }
+            std::cout << std::endl;
+            }*/
+         int rows = 6, space;
+         for (int i = 0; i < rows; ++i) {
+             std::cout << "!";
+             for (int perc = 0; perc < rows; perc) {
+                 std::cout << "%";
+                 for (int tri = 0; tri < i; ++tri) {
+                     std::cout << "2";
+                 }
+                 for (int tri = 0; tri < rows-i; ++tri) {
+                     std::cout << "1";
+                 } std::cout << std::endl;
+         }
 
 
     return 0;
